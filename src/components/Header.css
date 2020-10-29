@@ -1,0 +1,12 @@
+.header {
+    /* display: flex; */
+    background-color: aqua;
+    position: sticky;
+    z-index: 100px;
+    align-items: center;
+    text-align: center;
+    top: 0;
+    height: 60px;
+    margin-top: 0%;
+}
+
