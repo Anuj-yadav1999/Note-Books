@@ -15,4 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### First Page Looks Like This
-<img src="https://github.com/Anuj-yadav1999/Note-Books/blob/main/public/images/expo-1.PNG" width="300" alt="" >
+<img src="https://github.com/Anuj-yadav1999/Note-Books/blob/main/public/images/expo-1.PNG" width="800" alt="" >
+
+### Second Page Looks Like This
+<img src="https://github.com/Anuj-yadav1999/Note-Books/blob/main/public/images/expo-2.PNG" width="800" alt="" >
